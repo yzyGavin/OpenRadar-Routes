@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <routes>
-  <route name="Taxiways" zoomMax="6" color="20,180,40">
+  <route name="Taxiways" zoomMax="6" color="20,150,40">
+
+    <!-- Taxi A -->
+    <text position="42.371636,-71.018004" font="Arial" fontSize="11" text="A"/>
+    <text position="42.364662,-71.013643" font="Arial" fontSize="11" text="A"/>
+    <text position="42.360765,-71.015744" font="Arial" fontSize="11" text="A"/>
+
+    <text position="42.370466,-71.015483" font="Arial" fontSize="11" text="A1"/>
+    <text position="42.361602,-71.014558" font="Arial" fontSize="11" text="A2"/>
 
     <!-- Taxi B -->
     <text position="42.374663,-71.020810" font="Arial" fontSize="11" text="B"/>
@@ -30,6 +38,10 @@
     <text position="42.358593,-71.014735" font="Arial" fontSize="11" text="E"/>
     <text position="42.358129,-71.010704" font="Arial" fontSize="11" text="E"/>
     <text position="42.357690,-71.006805" font="Arial" fontSize="11" text="E"/>
+    <text position="42.359078,-71.017281" font="Arial" fontSize="11" text="E"/>
+
+    <text position="42.359640,-71.020321" font="Arial" fontSize="11" text="E1"/>
+    <text position="42.360226,-71.021775" font="Arial" fontSize="11" text="E2"/>
 
     <!-- Taxi F -->
     <text position="42.365381,-71.011497" font="Arial" fontSize="11" text="F"/>
@@ -41,6 +53,18 @@
 
     <!-- Taxi H -->
     <text position="42.363389,-71.006712" font="Arial" fontSize="11" text="H"/>
+
+    <!-- Taxi J -->
+    <text position="42.355497,-71.018190" font="Arial" fontSize="11" text="J"/>
+    <text position="42.356954,-71.022006" font="Arial" fontSize="11" text="J"/>
+
+    <text position="42.355172,-71.019622" font="Arial" fontSize="11" text="J1"/>
+
+    <!-- Taxi K -->
+    <text position="42.360177,-71.022667" font="Arial" fontSize="11" text="K"/>
+    <text position="42.358297,-71.017678" font="Arial" fontSize="11" text="K"/>
+    <text position="42.357857,-71.015167" font="Arial" fontSize="11" text="K"/>
+    <text position="42.356685,-71.011764" font="Arial" fontSize="11" text="K"/>
 
     <!-- Taxi L -->
     <text position="42.373616,-71.018383" font="Arial" fontSize="11" text="L"/>
