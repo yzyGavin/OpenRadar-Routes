@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<routes>
+
+<route name="PPORT-NavAids" displayMode="sid" color="168,210,182" zoomMin="30">
+<activeStartRunways>06,35</activeStartRunways>
+    <navaids>RAYMY,PPORT,SHOEL,RBELA,COTEE,BAF,JJIMY,NELIE,ORW,CCC</navaids>
+</route>
+
+<route name="PPORT3.BAF" displayMode="sid" stroke="2-5-2-2" fontSize="12" color="122,150,108" zoomMin="30">
+<screenText screenPos="200,35" text="PPORT3.BAF / Barnes" color="168,210,182" clickable="true"/>
+<activeStartRunways>06,35</activeStartRunways>
+    <navaids>RAYMY,PPORT,SHOEL,RBELA,COTEE,BAF</navaids>
+    <line start="RAYMY" end="PPORT" text="4000 / 086" arrows="end"/>
+    <line start="PPORT" end="SHOEL" text="5000 / 155" arrows="end"/>
+    <line start="SHOEL" end="RBELA" text="7000 / 215" arrows="end"/>
+    <line start="RBELA" end="COTEE" text="FL110 / 215" arrows="end"/>
+    <line start="COTEE" end="BAF" text="FL170 / 270" arrows="end"/>
+</route>
+
+<route name="PPORT3.CCC" displayMode="sid" stroke="2-5-2-2" fontSize="12" color="122,150,108" zoomMin="30">
+<screenText screenPos="400,35" text="PPORT3.CCC / Calverton" color="168,210,182" clickable="true"/>
+<activeStartRunways>06,35</activeStartRunways>
+    <navaids>RAYMY,PPORT,SHOEL,RBELA,COTEE,JJIMY,ORW,CCC</navaids>
+    <line start="RAYMY" end="PPORT" text="4000 / 086" arrows="end"/>
+    <line start="PPORT" end="SHOEL" text="5000 / 155" arrows="end"/>
+    <line start="SHOEL" end="RBELA" text="7000 / 215" arrows="end"/>
+    <line start="RBELA" end="COTEE" text="FL110 / 215" arrows="end"/>
+    <line start="COTEE" end="JJIMY" text="FL110 / 215" arrows="end"/>
+    <line start="JJIMY" end="ORW" text="FL170 / 231" arrows="end"/>
+    <line start="ORW" end="CCC" text="FL170 / 239" arrows="end"/>
+</route>
+
+<route name="PPORT3.NELIE" displayMode="sid" stroke="2-5-2-2" fontSize="12" color="122,150,108" zoomMin="30">
+<screenText screenPos="600,35" text="PPORT3.NELIE / Nelie" color="168,210,182" clickable="true"/>
+<activeStartRunways>06,35</activeStartRunways>
+    <navaids>RAYMY,PPORT,SHOEL,RBELA,COTEE,JJIMY,NELIE</navaids>
+    <line start="RAYMY" end="PPORT" text="4000 / 086" arrows="end"/>
+    <line start="PPORT" end="SHOEL" text="5000 / 155" arrows="end"/>
+    <line start="SHOEL" end="RBELA" text="7000 / 215" arrows="end"/>
+    <line start="RBELA" end="COTEE" text="FL110 / 215" arrows="end"/>
+    <line start="COTEE" end="JJIMY" text="FL110 / 215" arrows="end"/>
+    <line start="JJIMY" end="NELIE" text="FL170 / 263" arrows="end"/>
+</route>
+
+<route name="MHT9.BOS" displayMode="sid" color="255,204,153" zoomMin="30">
+    <screenText screenPos="200,50" text="MHT9.BOS" fontSize="12" clickable="true"/>
+    <activeStartRunways>06,17,24,35</activeStartRunways>
+    <navaids>BOS</navaids>
+</route>
+<route name="MHT9.CAM" displayMode="sid" color="255,204,153" zoomMin="30">
+    <screenText screenPos="300,50" text="MHT9.CAM" fontSize="12" clickable="true"/>
+    <activeStartRunways>06,17,24,35</activeStartRunways>
+    <navaids>CAM</navaids>
+</route>
+<route name="MHT9.CON" displayMode="sid" color="255,204,153" zoomMin="30">
+    <screenText screenPos="400,50" text="MHT9.CON" fontSize="12" clickable="true"/>
+    <activeStartRunways>06,17,24,35</activeStartRunways>
+    <navaids>CON</navaids>
+</route>
+<route name="MHT9.EEN" displayMode="sid" color="255,204,153" zoomMin="30">
+    <screenText screenPos="500,50" text="MHT9.EEN" fontSize="12" clickable="true"/>
+    <activeStartRunways>06,17,24,35</activeStartRunways>
+    <navaids>EEN</navaids>
+</route>
+<route name="MHT9.ENE" displayMode="sid" color="255,204,153" zoomMin="30">
+    <screenText screenPos="600,50" text="MHT9.ENE" fontSize="12" clickable="true"/>
+    <activeStartRunways>06,17,24,35</activeStartRunways>
+    <navaids>ENE</navaids>
+</route>
+<route name="MHT9.GDM" displayMode="sid" color="255,204,153" zoomMin="30">
+    <screenText screenPos="200,65" text="MHT9.GDM" fontSize="12" clickable="true"/>
+    <activeStartRunways>06,17,24,35</activeStartRunways>
+    <navaids>GDM</navaids>
+</route>
+<route name="MHT9.LEB" displayMode="sid" color="255,204,153" zoomMin="30">
+    <screenText screenPos="300,65" text="MHT9.LEB" fontSize="12" clickable="true"/>
+    <activeStartRunways>06,17,24,35</activeStartRunways>
+    <navaids>LEB</navaids>
+</route>
+<route name="MHT9.LWM" displayMode="sid" color="255,204,153" zoomMin="30">
+    <screenText screenPos="400,65" text="MHT9.LWM" fontSize="12" clickable="true"/>
+    <activeStartRunways>06,17,24,35</activeStartRunways>
+    <navaids>LWM</navaids>
+</route>
+<route name="MHT9.MHT" displayMode="sid" color="255,204,153" zoomMin="30">
+    <screenText screenPos="500,65" text="MHT9.MHT" fontSize="12" clickable="true"/>
+    <activeStartRunways>06,17,24,35</activeStartRunways>
+    <navaids>MHT</navaids>
+</route>
+<route name="MHT9.PSM" displayMode="sid" color="255,204,153" zoomMin="30">
+    <screenText screenPos="600,65" text="MHT9.PSM" fontSize="12" clickable="true"/>
+    <activeStartRunways>06,17,24,35</activeStartRunways>
+    <navaids>PSM</navaids>
+</route>
+
+<route name="rwy06" displayMode="sid" stroke="2-5-2-2" fontSize="12" color="122,150,108" zoomMin="6">
+<activeStartRunways>06</activeStartRunways>
+<line start="KMHT-RW06" startOffset=".25" angle="040" length="9.375" text="040" arrows="end"/>
+<line start="13NM266@RAYMY" angle="086" length="4" stroke="5-10" text="086" arrows="end"/>
+</route>
+
+<route name="rwy17" displayMode="sid" stroke="2-5-2-2" fontSize="12" color="122,150,108" zoomMin="6">
+<activeStartRunways>17</activeStartRunways>
+<line start="KMHT-RW17" startOffset=".25" angle="220" length="9.375" text="220" arrows="end"/>
+</route>
+
+<route name="rwy24" displayMode="sid" stroke="2-5-2-2" fontSize="12" color="122,150,108" zoomMin="6">
+<activeStartRunways>24</activeStartRunways>
+    <line start="KMHT-RW24" startOffset=".25" angle="237" length="9.375" text="238" arrows="end"/>
+</route>
+
+<route name="rwy35" displayMode="sid" stroke="2-5-2-2" fontSize="12" color="122,150,108" zoomMin="6">
+<activeStartRunways>35</activeStartRunways>
+    <line start="KMHT-RW35" startOffset=".25" angle="351" length="9.375" text="353" arrows="end"/>
+</route>
+
+</routes>
