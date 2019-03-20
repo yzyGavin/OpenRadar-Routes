@@ -11,18 +11,3 @@ KMHT - Manchester, NH
 
 KBOS - Boston, MA
 
-
-
-Someday List
-
-Portland, ME
-
-Burlington, VT
-
-KASH - Nashua, NH
-
-Rochester, NY
-
-Airports that are a part of the VA / Arctic Network
-
-KLSV - Nellis
